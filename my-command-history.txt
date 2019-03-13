@@ -1,0 +1,12 @@
+    1  sudo gedit /etc/fstab
+    2  sudo yum update
+    3  sudo apt-get update
+    4  sudo pacman-todo
+    5  sudo pacman-Syu
+    6  sudo pacman-Syu.
+    7  sudo pacman -Syu. Update the database:
+    8  sudo pacman -Syu. Update the database
+    9  sudo pacman -Syu. 
+   10  sudo pacman -Syu
+   11  pacman -Ss todo
+   12  history > ~/CIT173_Lab7/my-command-history.txt
